@@ -1,4 +1,4 @@
-Das desgin pattern State funktioniert so: 
+Das Design Pattern "State" funktioniert so:
 
 Stell dir eine Ampel vor:
 
